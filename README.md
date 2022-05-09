@@ -3,6 +3,7 @@
 Olá, seja bem vindo ao meu delicioso livro de receitas:
 
 - Bobó de camarão 
+- Maniçoba 
 
 
 
